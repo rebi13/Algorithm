@@ -7,7 +7,6 @@ function solution(arr) {
                 arr[i].push(0);
             }
         }
-        console.log('a');
     }
     else {
         for(let i=0; i<y-x; ++i) {
